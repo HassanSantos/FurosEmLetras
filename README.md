@@ -17,10 +17,11 @@ body:
 `Hello, World!`  
 Response:
 
-{
-    "texto": "Hello, World!",
-    "tamanho": 13,
-    "totalDePalavras": 2,
-    "totalDeBuracos": 4
-}# Under Construction
-
+```
+{  
+    "texto": "Hello, World!",  
+    "tamanho": 13,  
+    "totalDePalavras": 2,  
+    "totalDeBuracos": 4  
+}
+```
